@@ -1,7 +1,5 @@
 // JavaScript Document
 
-// JavaScript Document
-
 $(document).ready(function (e){
     document .addEventListener ("deviceready",function(){
 		$('#disp table td').eq(3).text(device.model);
